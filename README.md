@@ -121,7 +121,7 @@ CUSTOMFOOD/
 ├── landing.png     → Landing page image shown at the start
 ├── script.js       → JavaScript file for interactivity
 ├── style.css       → CSS file for styling and layout
-
+```
 
 ## 🌱 FUTURE PLANS
 
