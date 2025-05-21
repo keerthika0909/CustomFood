@@ -24,10 +24,10 @@ It’s not just a food app — it’s **food intelligence on a plate**.
 
 Have you ever...
 
-* Wondered which vegetables are good or bad for your health condition?
-* Wished to remove certain ingredients from your meal?
-* Searched endlessly through generic food delivery apps to match your dietary needs?
-* Wanted to generate dishes dynamically based on your selections?
+- Wondered which vegetables are good or bad for your health condition?
+- Wished to remove certain ingredients from your meal?
+- Searched endlessly through generic food delivery apps to match your dietary needs?
+- Wanted to generate dishes dynamically based on your selections?
 
 If yes, then this app is your digital chef! 👨‍🍳
 
@@ -36,96 +36,85 @@ If yes, then this app is your digital chef! 👨‍🍳
 ## ✨ CORE FEATURES ✨
 
 ### 1. 📷 Visual First Impression
-
 A stunning fullscreen image of a delicious meal welcomes users. With a click on the **Next** button, they are transported to a dynamic food ordering world.
 
 ### 2. 🥦 Smart Vegetable Explorer
-
-* Click on any vegetable from a stylish listing
-* Instantly view:
-
-  * High-quality image
-  * Name
-  * Vitamins & minerals
-  * Health benefits
-  * Special warnings (e.g., avoid if thyroid patient)
+- Click on any vegetable from a stylish listing  
+- Instantly view:
+  - High-quality image  
+  - Name  
+  - Vitamins & minerals  
+  - Health benefits  
+  - Special warnings (e.g., avoid if thyroid patient)
 
 ### 3. 🧾 Customization Dashboard
-
 Personalize your plate with:
-
-* Dietary restrictions 
-* Health-based filters 
-* Spice level preferences
-* Medical condition recommendations
+- Dietary restrictions  
+- Health-based filters  
+- Spice level preferences  
+- Medical condition recommendations
 
 ### 4. 🍲 Dish Generator
-
 Generate dish suggestions based on selected veggies and preferences.
 
 ### 5. 📱 Responsive UI/UX
-
 Fully mobile-friendly with smooth animations, transitions, and accessible layouts.
 
 ---
 
 ## 🧑‍⚕️ WHO IS THIS APP FOR?
 
-* 🧘‍♀️ **Health-Conscious Eaters**
-* 👵 **Elderly Individuals**
-* 🏥 **Patients with specific conditions (thyroid, diabetes, etc.)**
-* 🥑 **Vegans and Vegetarians**
-* 👨‍🍳 **Curious Home Chefs**
-* 📊 **Nutritionists & Dietitians**
+- 🧘‍♀️ **Health-Conscious Eaters**
+- 👵 **Elderly Individuals**
+- 🏥 **Patients with specific conditions (thyroid, diabetes, etc.)**
+- 🥑 **Vegans and Vegetarians**
+- 👨‍🍳 **Curious Home Chefs**
+- 📊 **Nutritionists & Dietitians**
 
 ---
 
 ## 🎨 UI/UX HIGHLIGHTS
 
-* Fullscreen food visual landing page
-* Scrollable vegetable listing with hover/tap effects
-* Dynamic pop-up container with full vegetable info
-* Dashboard panel for customizing orders
-* Clean modern look with Tailwind CSS & animation transitions
+- Fullscreen food visual landing page  
+- Scrollable vegetable listing with hover/tap effects  
+- Dynamic pop-up container with full vegetable info  
+- Dashboard panel for customizing orders  
+- Clean modern look with Tailwind CSS & animation transitions  
 
 ---
 
 ## 🧑‍🍳 USER FLOW
 
-1. User lands on a fullscreen page with a food image
-2. Clicks "Next" to open the main dashboard
-3. Browses through a dynamic vegetable listing
-4. Clicks a vegetable to view its details
-5. Opens the dashboard to customize the order
-6. (Upcoming) Adds to cart and places an order
+1. User lands on a fullscreen page with a food image  
+2. Clicks "Next" to open the main dashboard  
+3. Browses through a dynamic vegetable listing  
+4. Clicks a vegetable to view its details  
+5. Opens the dashboard to customize the order  
+6. *(Upcoming)* Adds to cart and places an order  
 
 ---
 
-## Tech Stack
-🌐 Frontend
+## 🧰 TECH STACK
 
-    HTML5 – Structure and layout of the web pages (index.html)
+### 🌐 Frontend
+- **HTML5** – Structure and layout of the web pages (`index.html`)
+- **CSS3** – Styling and layout design (`style.css`)
+- **JavaScript (Vanilla JS)** – Client-side interactivity and logic (`script.js`)
 
-    CSS3 – Styling and layout design (style.css)
+### 🖼️ Assets
+- **Images** – Stored in the `images/` folder (custom visuals for food items, UI, etc.)
+- **Static Files** – PNGs like `landing.png` used directly in HTML/CSS
 
-    JavaScript (Vanilla JS) – Client-side interactivity and logic (script.js)
-
-🖼️ Assets
-
-    Images – Stored in the images/ folder (custom visuals for food items, UI, etc.)
-
-    Static Files 
-
-⚙️ Tools & Platforms
-
-    Git – Version control
-
-    GitHub – Code hosting and collaboration platform
-
-    VS Code – Likely used for development (standard for frontend web projects)
-
+### ⚙️ Tools & Platforms
+- **Git** – Version control
+- **GitHub** – Code hosting and collaboration platform
+- **VS Code** – Code editor used during development
 
 ---
+
+## 🏗️ DIRECTORY STRUCTURE
+
+
 
 ## 🏗️ DIRECTORY STRUCTURE
 
