@@ -148,9 +148,9 @@ Open your browser and navigate to: `http://localhost:5500`
 
 ## 🤝 CONTRIBUTORS & CREDITS
 
-👩‍💻 Built by: **Keerthika Badri**
-🎓 CSE Student, AI & ML Enthusiast
-💼 Specializing in React, Java, Spring Boot & Data Science
+* 👩‍💻 Built by: **Keerthika Badri**
+* 🎓 CSE Student, AI & ML Enthusiast
+* 💼 Specializing in React, Java, Spring Boot & Data Science
 
 ---
 
