@@ -114,10 +114,6 @@ Fully mobile-friendly with smooth animations, transitions, and accessible layout
 
 ## 🏗️ DIRECTORY STRUCTURE
 
-
-
-## 🏗️ DIRECTORY STRUCTURE
-
 CustomFood/
 ├── images/         → Contains food-related images
 ├── index.html      → Main entry point of the app
