@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Custom Food App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Landing Screen -->
+  <div id="landing" class="fullscreen">
+    <img src="landing.png" alt="Food" class="landing-img" />
+    <div class="overlay-text">
+      <h1>custom foodie</h1>
+      <p>experience fast and healthy food customization app</p>
+      <button id="nextBtn">Next</button>
+    </div>
+  </div>
+
+  <!-- Main App -->
+  <div id="mainApp" class="hidden">
+    <!-- Dashboard -->
+    <header class="dashboard">
+      <h2>Customize Your Dish</h2>
+      <div class="filters">
+        <select id="diseaseFilter">
+          <option value="">Select Health Condition</option>
+          <option value="thyroid">Thyroid</option>
+          <option value="diabetes">Diabetes</option>
+          <option value="heart">Heart</option>
+          <option value="chronic">Chronic</option>
+        </select>
+        <select id="spiceFilter">
+          <option value="">Spice Level</option>
+          <option value="mild">Mild</option>
+          <option value="medium">Medium</option>
+          <option value="spicy">Spicy</option>
+        </select>
+      </div>
+    </header>
+
+    <!-- Customization Section -->
+    <section class="customization">
+      <h3>Select Vegetables:</h3>
+      <div id="vegList" class="checkbox-group"></div>
+
+      <h3>Select Non-Veg Items:</h3>
+      <div id="nonVegList" class="checkbox-group"></div>
+
+      <button id="generateBtn">Generate Dish</button>
+    </section>
+
+    <!-- Vegetable Detail Display -->
+    <section id="vegDetail" class="veg-detail hidden"></section>
+
+    <!-- Final Customized Dish Display -->
+    <section id="customDish" class="dish-display hidden"></section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
