@@ -115,12 +115,11 @@ Fully mobile-friendly with smooth animations, transitions, and accessible layout
 ## 🏗️ DIRECTORY STRUCTURE
 
 CUSTOMFOOD/
-├── images/            → Folder containing all vegetable/food images
-├── index.html         → Main HTML file (landing and app content)
-├── landing.png        → Landing page image shown at the start
-├── script.js          → JavaScript file for interactivity
-├── style.css          → CSS file for styling and layout
-
+├── images/         → Folder containing all vegetable/food images
+├── index.html      → Main HTML file (landing and app content)
+├── landing.png     → Landing page image shown at the start
+├── script.js       → JavaScript file for interactivity
+├── style.css       → CSS file for styling and layout
 ---
 
 ## 🌱 FUTURE PLANS
